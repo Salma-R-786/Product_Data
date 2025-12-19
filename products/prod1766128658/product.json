@@ -7,11 +7,20 @@
     "category": "Uncategorized",
     "subcategory": "",
     "collections": [],
-    "base_price": "8000",
-    "compare_at_price": "14000",
+    "base_price": 8000,
+    "compare_at_price": 14000,
     "general_size_info": ""
   },
-  "details": [],
+  "details": [
+    {
+      "label": "material",
+      "value": "24‑carat pure gold dust, set in fine gold alloy chain"
+    },
+    {
+      "label": "weight",
+      "value": "Approx. 12–15 grams (varies by design)"
+    }
+  ],
   "variant_setup": {
     "has_variants": false,
     "option_definitions": []
