@@ -1,20 +1,5 @@
 {
   "version": 1,
-  "products": [
-    {
-      "product_id": "prod1766128658",
-      "name": "Necklace",
-      "status": "published",
-      "category": "Uncategorized",
-      "subcategory": "",
-      "collections": [],
-      "has_variants": true,
-      "price": 8000,
-      "compare_at_price": 14000,
-      "base_price": 8000,
-      "thumbnail": "https://cdn.jsdelivr.net/gh/subhamgiri460/product_data/products/prod1766128658/images/default/choker.webp",
-      "path": "products/prod1766128658/product.json"
-    }
-  ],
-  "generated_at": "2025-12-19T07:42:18.265Z"
+  "products": [],
+  "generated_at": "2025-12-19T10:01:20.217Z"
 }
