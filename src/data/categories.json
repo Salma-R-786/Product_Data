@@ -2,6 +2,11 @@
   {
     "id": "cat_gdh8qaxrn",
     "name": "Necklace",
-    "subcategories": []
+    "subcategories": [
+      {
+        "id": "sub_xj0n9g05f",
+        "name": "choker"
+      }
+    ]
   }
 ]
