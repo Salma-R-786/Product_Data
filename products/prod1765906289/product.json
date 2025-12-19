@@ -1,0 +1,64 @@
+{
+  "product_id": "prod1765906289",
+  "product_info": {
+    "name": "test 1",
+    "status": "draft",
+    "description": "<p>hello this is test 1 !@#$%^&*()_+={}[]:\".?><////</p>",
+    "category": "Necklace",
+    "subcategory": "choker",
+    "collections": [],
+    "base_price": 200,
+    "compare_at_price": 500,
+    "general_size_info": ""
+  },
+  "details": [
+    {
+      "label": "label 1 ",
+      "value": "value 1"
+    },
+    {
+      "label": "label 2 ",
+      "value": "value 2"
+    },
+    {
+      "label": "label 3 ",
+      "value": "value 3"
+    }
+  ],
+  "variant_setup": {
+    "has_variants": true,
+    "option_definitions": [
+      {
+        "name": "Default",
+        "source": "default",
+        "ui": "hidden",
+        "requires_media": true,
+        "values": [
+          "Default"
+        ]
+      }
+    ],
+    "default": [
+      {
+        "value": "Default",
+        "price_delta": 0,
+        "compare_delta": 0,
+        "media_key": "default"
+      }
+    ]
+  },
+  "media_groups": {
+    "default": {
+      "images": [
+        "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Data/products/prod1765906289/images/default/Screenshot from 2025-11-28 14-07-44.webp",
+        "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Data/products/prod1765906289/images/default/Screenshot from 2025-11-28 14-22-20.webp",
+        "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Data/products/prod1765906289/images/default/Screenshot from 2025-12-02 11-28-52.webp",
+        "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Data/products/prod1765906289/images/default/Screenshot from 2025-12-02 11-29-23.webp"
+      ],
+      "instagram": [
+        "insta 1 ",
+        "insta 2"
+      ]
+    }
+  }
+}
