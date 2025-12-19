@@ -1,0 +1,20 @@
+{
+  "product_id": "prod1766128658",
+  "product_info": {
+    "name": "Necklace",
+    "status": "published",
+    "description": "A breathtaking 24-carat gold dust necklace, crafted with meticulous artistry. Each delicate grain of pure gold dust is set within a fine chain, creating a shimmering cascade of light that dances with every movement. Luxurious yet understated, this necklace embodies timeless sophistication and is perfect for both grand occasions and everyday elegance.",
+    "category": "Uncategorized",
+    "subcategory": "",
+    "collections": [],
+    "base_price": "8000",
+    "compare_at_price": "14000",
+    "general_size_info": ""
+  },
+  "details": [],
+  "variant_setup": {
+    "has_variants": false,
+    "option_definitions": []
+  },
+  "media_groups": {}
+}
