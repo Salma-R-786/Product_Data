@@ -14,16 +14,89 @@
   "details": [
     {
       "label": "material",
-      "value": "24‑carat pure gold dust, set in fine gold alloy chain"
+      "value": "24carat pure gold dust, set in fine gold alloy chain"
     },
     {
       "label": "weight",
-      "value": "Approx. 12–15 grams (varies by design)"
+      "value": "Approx. 12-15 grams (varies by design)"
     }
   ],
   "variant_setup": {
-    "has_variants": false,
-    "option_definitions": []
+    "has_variants": true,
+    "option_definitions": [
+      {
+        "name": "Default",
+        "source": "default",
+        "ui": "hidden",
+        "requires_media": true,
+        "values": [
+          "Default"
+        ]
+      },
+      {
+        "name": "Size",
+        "source": "size",
+        "ui": "selector",
+        "requires_media": false,
+        "values": [
+          "small",
+          "medium"
+        ]
+      },
+      {
+        "name": "weight",
+        "source": "weight",
+        "ui": "selector",
+        "requires_media": false,
+        "values": [
+          "3gm",
+          "5gm"
+        ]
+      }
+    ],
+    "default": [
+      {
+        "value": "Default",
+        "price_delta": 0,
+        "compare_delta": 0,
+        "media_key": "default"
+      }
+    ],
+    "size": [
+      {
+        "value": "small",
+        "price_delta": 0,
+        "compare_delta": 0,
+        "media_key": ""
+      },
+      {
+        "value": "medium",
+        "price_delta": 600,
+        "compare_delta": 600,
+        "media_key": ""
+      }
+    ],
+    "weight": [
+      {
+        "value": "3gm",
+        "price_delta": 0,
+        "compare_delta": 0,
+        "media_key": ""
+      },
+      {
+        "value": "5gm",
+        "price_delta": 300,
+        "compare_delta": 450,
+        "media_key": ""
+      }
+    ]
   },
-  "media_groups": {}
+  "media_groups": {
+    "default": {
+      "images": [
+        "https://cdn.jsdelivr.net/gh/subhamgiri460/product_data/products/prod1766128658/images/default/choker.webp"
+      ],
+      "instagram": []
+    }
+  }
 }
