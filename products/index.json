@@ -1,20 +1,5 @@
 {
   "version": 1,
-  "products": [
-    {
-      "product_id": "prod1765906289",
-      "name": "test 1",
-      "status": "draft",
-      "category": "Necklace",
-      "subcategory": "choker",
-      "collections": [],
-      "has_variants": true,
-      "price": 200,
-      "compare_at_price": 500,
-      "base_price": 200,
-      "thumbnail": "https://cdn.jsdelivr.net/gh/salma-R-786/Product_Data/products/prod1765906289/images/default/Screenshot from 2025-11-28 14-07-44.webp",
-      "path": "products/prod1765906289/product.json"
-    }
-  ],
-  "generated_at": "2025-12-19T12:10:11.982Z"
+  "products": [],
+  "generated_at": "2025-12-19T12:14:55.021Z"
 }
